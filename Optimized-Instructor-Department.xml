@@ -1,0 +1,29 @@
+﻿<Department Dept_Name="SD">
+  <Instructor Ins_Name="Ahmed" />
+  <Instructor Ins_Name="Hany" />
+  <Instructor Ins_Name="Reham" />
+  <Instructor Ins_Name="Yasmin" />
+  <Instructor Ins_Name="Amany" />
+  <Instructor Ins_Name="Eman" />
+  <Instructor Ins_Name="Saly" />
+</Department>
+<Department Dept_Name="Java">
+  <Instructor Ins_Name="Amr" />
+</Department>
+<Department Dept_Name="Unix">
+  <Instructor Ins_Name="Hussien" />
+</Department>
+<Department Dept_Name="Java">
+  <Instructor Ins_Name="Khalid" />
+</Department>
+<Department Dept_Name="EB">
+  <Instructor Ins_Name="Salah" />
+  <Instructor Ins_Name="Adel" />
+</Department>
+<Department Dept_Name="EL">
+  <Instructor Ins_Name="Fakry" />
+  <Instructor Ins_Name="Amena" />
+</Department>
+<Department Dept_Name="MM">
+  <Instructor Ins_Name="Ghada" />
+</Department>
